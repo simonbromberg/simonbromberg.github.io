@@ -24,9 +24,7 @@ a.active {
     outline: 0;
     color: #18bc9c;
 }
-#about a {
-    color:#0C6150;
-}
+
 h1,
 h2,
 h3,
@@ -444,4 +442,8 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.portfolio-item .img-responsive {
+  vertical-align: middle;
 }
