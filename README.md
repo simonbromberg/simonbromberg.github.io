@@ -1,4 +1,4 @@
 simonbromberg.github.io
 =======================
 
-Website
+Personal Website
